@@ -1,8 +1,6 @@
 # MySQL-Pizza-Database
 In this project, I've created a MySQL database in conjunction with Python to grasp the fundamental concepts of SQL and its integration with the language. The database enables user interaction, allowing individuals to place pizza orders with delivery services
 
-**Readme File**
-
 **Project Setup Instructions**
 
 This project includes code that requires access to a provided database stored in the "SQL db" folder. To get started, please follow these steps:
